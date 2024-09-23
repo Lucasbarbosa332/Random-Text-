@@ -1,5 +1,5 @@
-# Random-Text-
-Random text Components
+# Random Text 
+Random text Components JS and SASS
 
 Text switching and typing animation using symbols 
 
